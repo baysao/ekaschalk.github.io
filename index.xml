@@ -3415,6 +3415,9 @@ I consider outlines an under-utilized yet killer feature of Emacs.
 &lt;p&gt;
 This post is split into two parts:
 &lt;/p&gt;
+&lt;p&gt;
+VuTT test
+&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -4226,9 +4229,6 @@ and keybindings.
       <description>&lt;p&gt;
 &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a static site generator. It natively supports org-mode, builds fast, and
 has live reloading.
-&lt;/p&gt;
-&lt;p&gt;
-Vutt test
 &lt;/p&gt;
 &lt;p&gt;
 I have two repos for &lt;a href=&#34;https://github.com/ekaschalk/blog&#34;&gt;blog content and settings&lt;/a&gt; and &lt;a href=&#34;https://github.com/ekaschalk/ekaschalk.github.io&#34;&gt;hugo output&lt;/a&gt;.
